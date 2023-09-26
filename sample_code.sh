@@ -1,5 +1,6 @@
 #!/bin/bash
 #
+date
 
 echo "This is an Samples Script from GitHub"
 echo "This is test from Linux Server"
